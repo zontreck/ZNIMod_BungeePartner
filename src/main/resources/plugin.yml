@@ -1,0 +1,4 @@
+name: ZontreckDevPartner
+main: zeenai.server.SpigotPartner
+version: 1.0
+author: zontreck
